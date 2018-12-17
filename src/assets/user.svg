@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>User</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-99.000000, -228.000000)" fill="#F51725" fill-rule="nonzero">
+            <g id="User" transform="translate(99.000000, 228.000000)">
+                <circle id="Oval" cx="6.5" cy="3.5" r="3.5"></circle>
+                <rect id="Rectangle" x="0" y="8" width="13" height="5" rx="2"></rect>
+                <rect id="Rectangle" x="0" y="10" width="13" height="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

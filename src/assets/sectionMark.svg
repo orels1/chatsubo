@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="24px" viewBox="0 0 19 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>SectionMark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="3" height="3"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-72.000000, -212.000000)">
+            <g id="SectionMark" transform="translate(72.000000, 212.000000)">
+                <rect id="Rectangle" fill="#F51725" fill-rule="nonzero" x="0" y="0" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy" fill="#F51725" fill-rule="nonzero" x="0" y="4" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy-2" fill="#F51725" fill-rule="nonzero" x="0" y="8" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy-3" fill="#F51725" fill-rule="nonzero" x="0" y="12" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy-4" fill="#F51725" fill-rule="nonzero" x="0" y="16" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy-5" fill="#F51725" fill-rule="nonzero" x="5" y="22" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy-6" fill="#F51725" fill-rule="nonzero" x="9" y="22" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy-7" fill="#F51725" fill-rule="nonzero" x="13" y="22" width="2" height="2"></rect>
+                <rect id="Rectangle-Copy-8" fill="#F51725" fill-rule="nonzero" x="17" y="22" width="2" height="2"></rect>
+                <g id="Rectangle" transform="translate(0.000000, 21.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask" fill-rule="nonzero"></g>
+                    <rect stroke="#F51725" stroke-width="2" fill-rule="nonzero" mask="url(#mask-2)" x="1" y="-20" width="17" height="22" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
