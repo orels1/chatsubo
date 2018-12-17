@@ -1,3 +1,5 @@
+![screenshot](https://i.imgur.com/TneuY0e.jpg)
+
 # Chatsubo (exapunks)
 
 ## What's this? `(OwO)`
